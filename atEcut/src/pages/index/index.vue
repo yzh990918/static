@@ -1,32 +1,36 @@
 <template>
   <div>
+    <div class="wrapper">
+    <avatar  :showSearch="false" avatarSrc="https://img.yzcdn.cn/vant/cat.jpeg"></avatar>
+    </div>
   </div>
 </template>
 
 <script>
-  export default {
-    name: '',
-    props: [''],
-    data () {
-      return {
+import avatar from '../../components/base/avatar-custom'
+export default {
+  name: '',
+  props: [''],
+  data () {
+    return {
 
-      }
-    },
+    }
+  },
 
-    components: {},
-    created () {},
+  components: {avatar},
+  created () {},
 
-    computed: {},
+  computed: {},
 
-    beforeMount () {},
+  beforeMount () {},
 
-    mounted () {},
+  mounted () {},
 
-    methods: {},
+  methods: {},
 
-    watch: {}
+  watch: {}
 
-  }
+}
 </script>
 <style lang='stylus' scoped>
 

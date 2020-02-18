@@ -10,7 +10,6 @@
     "navigationBarTitleText": "在东理",
     "navigationBarTextStyle": "black"
   },
-  "usingComponents":{},
   "tabBar": {
     "color": "#707070",
     "backgroundColor": "#fafafa",
@@ -35,5 +34,7 @@
     }
   ],
     "position": "bottom"
-  }
+  },
+    "usingComponents":{
+    }
 }
