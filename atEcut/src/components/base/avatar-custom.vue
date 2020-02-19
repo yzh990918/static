@@ -3,8 +3,8 @@
 		<div class="cu-custom avatar-hea" :style="[{height:CustomBar + 'px'}]">
 			<div class="cu-bar fixed "  :style="style" >
             <div class="cu-bar search add" :style="style">
-              <div class="avatar-wrapper">
-                  <van-image width="34" height="34" fit="cover" round :src="avatarSrc"></van-image>
+              <div class="avatar-wrapper ">
+                  <van-image width="35" height="35" fit="cover" round :src="avatarSrc"></van-image>
               </div>
           <div class="search-form radius" v-if="showSearch">
             <text class="cuIcon-search"></text>
@@ -68,6 +68,6 @@
   padding-right: 0px !important;
 }
 .avatar-wrapper{
-  margin-left: 10px
+  margin-left: 12px
 }
 </style>
