@@ -10,6 +10,15 @@
             <text class="cuIcon-search"></text>
             <input type="text" placeholder="搜索图片、文章、视频" confirm-type="search"/>
           </div>
+          <div class="title">
+                  <div class="cu-bar" v-if="showtitle">
+          <div class="action sub-title">
+            <text class="text-xl text-bold text-white">atECUT</text>
+            <text class="bg-gray" style="width:76px"></text>
+            <!-- last-child选择器-->
+          </div>
+        </div>
+          </div>
         </div>
 			</div>
 		</div>
@@ -42,6 +51,10 @@
     avatarSrc: {
       type: String,
       default: 'https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif?imageView2/1/w/80/h/80'
+    },
+    showtitle: {
+      type: Boolean,
+      default: true
     }
   },
   onLoad () {
@@ -69,5 +82,9 @@
 }
 .avatar-wrapper{
   margin-left: 12px
+}
+.title{
+    display: flex;
+    justify-content: center;
 }
 </style>

@@ -1,6 +1,12 @@
 {
   "navigationStyle": "custom",
   "usingComponents":{
-    "van-image":"../../../static/vant/dist/image/index"
+    "van-image":"../../../static/vant/dist/image/index",
+    "van-grid":"../../../static/vant/dist/grid/index",
+    "van-grid-item":"../../../static/vant/dist/grid-item/index",
+    "van-cell":"../../../static/vant/dist/cell/index",
+    "van-cell-group":"../../../static/vant/dist/cell-group/index",
+    "van-icon" :"../../../static/vant/dist/icon/index",
+    "l-loadmore":"../../../static/dist/loadmore/index"
   }
 }

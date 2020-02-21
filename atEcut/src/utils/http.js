@@ -64,7 +64,7 @@ export function post (url, params = {}) {
   if (fly) {
     return new Promise((resolve, reject) => {
       fly.post(url, params).then((response) => {
-        if (response && response.data && response.data.ret === 200 && response.data.status === 200) {
+        if (response && response.data && response.data.ret === 200) {
           resolve(response)
         } else {
           let code = response.data.status
