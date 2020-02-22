@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents":{
+    "van-cell":"../../../static/vant/dist/cell/index",
+    "van-cell-group":"../../../static/vant/dist/cell-group/index"
+  }
+}

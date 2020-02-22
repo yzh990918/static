@@ -83,7 +83,9 @@
 
     methods: {
       Select (item) {
-        console.log(item)
+        this.$router.push({
+          path: `/pages/${item}/main`
+        })
       }
     },
 

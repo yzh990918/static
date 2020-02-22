@@ -68,7 +68,7 @@
 </script>
 <style lang='stylus' scoped>
 .time-table
-  margin-top 3px
+  margin-top 12px
   display flex
   flex-direction column
   .title

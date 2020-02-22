@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents":{
+    "van-image":"../../../static/vant/dist/image/index",
+    "van-grid":"../../../static/vant/dist/grid/index",
+    "van-grid-item":"../../../static/vant/dist/grid-item/index"
+  }
+}

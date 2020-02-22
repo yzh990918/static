@@ -2,7 +2,8 @@
   "pages": [
     "pages/index/main",
     "pages/newThings/main",
-    "pages/me/main"
+    "pages/me/main",
+    "pages/more/main"
   ],
   "window": {
     "backgroundTextStyle": "light",
