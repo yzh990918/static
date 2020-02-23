@@ -21,7 +21,7 @@
           <div class="text-cut text-gray">校内大新闻</div>
         </div>
         <div class="content">
-          <image src="https://ossweb-img.qq.com/images/lol/web201310/skin/big10006.jpg" mode="aspectFill"></image>
+          <image src="https://i.loli.net/2020/02/21/CBrNX8dzamDTceo.png"  mode="aspectFill"></image>
           <div class="desc">
             <div class="text-content"> 折磨生出苦难，苦难又会加剧折磨，凡间这无穷的循环，将有我来终结！真正的恩典因不完整而美丽，因情感而真诚，因脆弱而自由！</div>
           </div>
@@ -34,7 +34,7 @@
           <div class="text-cut text-gray">校内大新闻</div>
         </div>
         <div class="content">
-          <image src="https://ossweb-img.qq.com/images/lol/web201310/skin/big10006.jpg" mode="aspectFill"></image>
+          <image src="https://i.loli.net/2020/02/21/CBrNX8dzamDTceo.png"  mode="aspectFill"></image>
           <div class="desc">
             <div class="text-content"> 折磨生出苦难，苦难又会加剧折磨，凡间这无穷的循环，将有我来终结！真正的恩典因不完整而美丽，因情感而真诚，因脆弱而自由！</div>
           </div>

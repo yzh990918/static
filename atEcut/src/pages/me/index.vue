@@ -31,13 +31,13 @@
      <van-cell-group :border="false">
         <van-cell
           title="公告"
-          icon="https://i.loli.net/2020/02/22/zF17KMVLNGvBpa6.png"
+          icon="https://i.loli.net/2020/02/23/2fQT3IlzbA9GvR6.png"
           is-link
           title-class="title_class"
     />
      <van-cell
           title="实时反馈"
-          icon="https://i.loli.net/2020/02/22/BFIZovLKN5dCuH6.png"
+          icon="https://i.loli.net/2020/02/23/NC5HqeAxdRb9fWz.png"
           is-link
           title-class="title_class"
     />
@@ -49,13 +49,13 @@
     />
      <van-cell
           title="开发日志"
-          icon="https://i.loli.net/2020/02/22/JIq5pvYeaE4Mh2c.png"
+          icon="https://i.loli.net/2020/02/23/H9wQD7sdA35cPMK.png"
           is-link
           title-class="title_class"
     />
      <van-cell
           title="我的荣誉"
-          icon="https://i.loli.net/2020/02/22/AoDFPQuHGU4zjOR.png"
+          icon="https://i.loli.net/2020/02/23/9cj518xn64GLyBI.png"
           is-link
           title-class="title_class"
     />
@@ -67,13 +67,13 @@
     />
      <van-cell
           title="友情链接"
-          icon="https://i.loli.net/2020/02/22/qnS4J1e87dK3roD.png"
+          icon="https://i.loli.net/2020/02/23/X7gVcWurwYqmznj.png"
           is-link
           title-class="title_class"
     />
      <van-cell
           title="联系开发者"
-          icon="https://i.loli.net/2020/02/22/OgeKM9QSzaHwnlr.png"
+          icon="https://i.loli.net/2020/02/23/N5lWzQnBtH4M7Ag.png"
           is-link
           title-class="title_class"
     />
